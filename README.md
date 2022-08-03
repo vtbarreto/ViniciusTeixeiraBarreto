@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salve 👋
 
 <!--
 **ViniciusTeixeiraBarreto/ViniciusTeixeiraBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Bmo](https://user-images.githubusercontent.com/38351639/182689268-6933e97b-4044-4d9d-b206-9ea6dc4addc2.gif)
