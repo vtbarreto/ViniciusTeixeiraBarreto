@@ -1,8 +1,7 @@
 ### Welcome 👋
 
 Brazilian Backend Developer
-
-![guy](https://user-images.githubusercontent.com/38351639/182689920-96e87326-6661-40d1-963f-741186b03a5d.gif)
+![wallpaper](https://user-images.githubusercontent.com/38351639/188795177-a2dac336-d553-43d2-90d8-249ec92747b4.gif)
 
  <img 
       height="130em" 
