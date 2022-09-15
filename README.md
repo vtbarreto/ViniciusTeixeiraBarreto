@@ -2,7 +2,7 @@
 
 Brazilian Backend Developer
 
-![wallpaper](https://user-images.githubusercontent.com/38351639/188795177-a2dac336-d553-43d2-90d8-249ec92747b4.gif)
+![wallpaper](https://user-images.githubusercontent.com/38351639/190310093-c8113e93-a00c-4597-966d-a93a26a3f49b.gif)
 
  <img 
       height="130em" 
