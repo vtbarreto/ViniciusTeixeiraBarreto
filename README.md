@@ -2,7 +2,7 @@
 
 Brazilian Backend Developer
 
-![painted](https://github.com/ViniciusTeixeiraBarreto/ViniciusTeixeiraBarreto/assets/38351639/82050560-35af-48f3-b7e9-957a5b456a2e)
+![painted_animation (1)](https://github.com/ViniciusTeixeiraBarreto/ViniciusTeixeiraBarreto/assets/38351639/6077f033-3948-49ef-b4b6-e099dbc402ad)
 
  <img 
       height="130em" 
