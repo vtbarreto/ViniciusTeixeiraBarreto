@@ -6,7 +6,7 @@ Brazilian Backend Developer
 
  <img 
       height="130em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeixeiraBarreto&layout=compact&langs_count=7&theme=dark"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtbarreto&layout=compact&langs_count=7&theme=dark"/>
 
 
 ![Count Visit](https://komarev.com/ghpvc/?username=vtbarreto)
