@@ -9,5 +9,5 @@ Brazilian Backend Developer
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeixeiraBarreto&layout=compact&langs_count=7&theme=dark"/>
 
 
-![Count Visit](https://komarev.com/ghpvc/?username=viniciusTeixeiraBarreto)
+![Count Visit](https://komarev.com/ghpvc/?username=vtbarreto)
 
